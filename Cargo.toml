@@ -1,6 +1,7 @@
 [package]
+authors = ["Nicholas Dujay <nickdujay@gmail.com>"]
 name = "hanabi-ws-server"
 version = "0.1.0"
-authors = ["Nicholas Dujay <nickdujay@gmail.com>"]
 
 [dependencies]
+ws = "0.7.3"
